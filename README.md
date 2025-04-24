@@ -30,3 +30,4 @@ ng generate --help
 ```
 
 ## Libraries used:
+1. npm install tailwindcss @tailwindcss/postcss postcss --force
